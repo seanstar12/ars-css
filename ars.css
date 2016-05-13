@@ -197,3 +197,29 @@ article.single .single-row .xrail .xrail-content {
     padding-left: 0px;   
 }
 
+aside#social-footer a {
+    color: #fff;
+}
+
+.comments-row #comments-area #comments>li>header .author {
+    color: white;
+}
+
+.comments-row #comments-area #comments>li>.body .quotetitle {
+    padding-left: 0;
+    border-left: 0;
+}
+
+.comments-row #comments-area #comments>li>.body .quotecontent {
+    border: 1px solid #313131;
+    border-left: 5px solid #404040;
+    border-right: 0;
+    color: #AAA;
+    background-color: #2B2B2B;
+    padding-bottom: 10px;
+}
+
+.comments-row #comments-area .pager .comment-pagination {
+    float: none;
+}
+
