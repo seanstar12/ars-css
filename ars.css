@@ -134,6 +134,10 @@ article.single .post-lowerdek {
     width: 100%;   
 }
 
+.post-content figure.image.right {
+    background-color: #fff;
+}
+
 #story-recs.rec-wrap .post-meta,
 #latest-recs.rec-wrap .post-meta {
     max-width: 310px;
