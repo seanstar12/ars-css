@@ -162,3 +162,34 @@ article.single .post-lowerdek {
    color: #c1c1c1;
 }
 
+main aside.ad.ad_fullwidth,
+#recommendations-footer #sponsored-recommendations {
+    background-color: #171717;
+    border: 1px dashed #4E4E4E;
+    margin-top: 25px;
+}
+
+#recommendations-footer #sponsored-recommendations #outbrain-recs .outbrain-recommendation>a .ob-title {
+   color: #fff;   
+}
+#sponsored-recommendations .heading-column {
+  padding-left:5px;
+  padding-right: 5px;
+}
+
+#outbrain-recs {
+   width: 980px;   
+}
+aside.ad.ad_crown {
+    max-height: 150px;
+    overflow-y: scroll;
+}
+
+.cns-ads-stage.atp-cns-ctx-out-of-page {
+    margin-top: -50px;
+}
+
+article.single .single-row .xrail .xrail-content {
+    padding-left: 0px;   
+}
+
